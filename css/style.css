@@ -107,7 +107,7 @@ div.menu img{
 .column {
   float: left;
   padding: 5px;
-  align: center
+  text-align: center;
 }
 
 /* Left and right column */
